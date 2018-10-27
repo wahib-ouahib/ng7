@@ -1,6 +1,6 @@
 <h1 id="post">Posts</h1>
 
-<ul>
+<ul [@listStagger]="users$">
   <li *ngFor="let post of posts$">
     <a routerLink="">{{ post.title }}</a>
 
