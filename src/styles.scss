@@ -1,9 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 body {
     margin: 0;
-    background: #F2F2F2;
+    background: #ee5959;
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
+}
+
+#user {
+    text-decoration: underline;
+    text-indent: 50px;
+    font-size: 50px;
+}
+
+#post {
+    
 }
 
 #container {
@@ -19,7 +29,7 @@ body {
            margin:0;padding:0;
        
            li {
-               background: #fff;
+               background: #f01606;
                border-radius: 8px;
                padding: 20px;
                margin-bottom: 8px;
