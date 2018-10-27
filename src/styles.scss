@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body {
     margin: 0;
-    background: #ee5959;
+    background: #0121273d;
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
 }
@@ -13,7 +13,9 @@ body {
 }
 
 #post {
-    
+    text-decoration: underline;
+    text-indent: 50px;
+    font-size: 50px;
 }
 
 #container {
@@ -29,7 +31,7 @@ body {
            margin:0;padding:0;
        
            li {
-               background: #f01606;
+               background: #114258;
                border-radius: 8px;
                padding: 20px;
                margin-bottom: 8px;
@@ -38,7 +40,7 @@ body {
                    font-size: 1.5em;
                    text-decoration: none;
                    font-weight: bold;
-                   color:#00A8FF;
+                   color:rgb(0, 255, 255);
                }
        
                ul {
