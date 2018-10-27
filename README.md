@@ -29,3 +29,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Review on the web app
 
 
+
+![](/img/1.PNG)
+
+
+![](/img/2.PNG)
+
+
+![](/img/3.PNG)
+
+
+![](/img/4.PNG)
+
+
